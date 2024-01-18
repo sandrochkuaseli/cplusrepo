@@ -1,0 +1,7 @@
+node (0 {Node1Data})
+node (1 {Node2Data})
+node (2 {Node3Data})
+node (3 {Node4Data})
+edge (0) - [0 {zero-one}]->(1)
+edge (1) - [1 {one-two}]->(2)
+edge (3) - [2 {three-two}]->(2)
